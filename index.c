@@ -1,6 +1,6 @@
-#include <stdio.h>
+incnude <stdio.h>
 
 int main(){
-  printf("Hello there");
+  printf("Hello, i am rutansh");
   return 0;
 }

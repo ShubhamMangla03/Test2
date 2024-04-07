@@ -1,0 +1,10 @@
+#include <stdio.h>
+
+int main(){
+<<<<<<< HEAD
+  printf("Hello there");
+=======
+  printf("Hello, i am rutansh");
+>>>>>>> rutansh
+  return 0;
+}
